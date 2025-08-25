@@ -7,8 +7,10 @@ A React application built with Vite, React and TypeScript that displays a user h
 ```bash
 
 # Feel free to clone the app
+git clone https://github.com/sidharrthsahai/Hierarchy-Tree.git
 
 # Navigate inside the my-app
+cd my-app
 
 # Install dependencies
 npm install
